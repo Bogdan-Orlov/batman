@@ -9,6 +9,7 @@ body {
     background-image: url(../img/main-bg.png);
     background-repeat: no-repeat;
     background-position: top center;
+    background-size: contain;
 }
 
 .container {
