@@ -327,6 +327,9 @@ body {
   }
 
   @media (max-width: 768px) {
+    .body {
+      background-size: auto;
+    }
     .container {
       min-width: 540px;
     }
@@ -345,6 +348,9 @@ body {
   }
 
   @media (max-width: 578px) {
+    .body {
+      background-size: auto;
+    }
     .container {
       min-width: 90%;
     }
