@@ -327,7 +327,7 @@ body {
   }
 
   @media (max-width: 768px) {
-    .body {
+    body {
       background-size: auto;
     }
     .container {
@@ -348,7 +348,7 @@ body {
   }
 
   @media (max-width: 578px) {
-    .body {
+    body {
       background-size: auto;
     }
     .container {
